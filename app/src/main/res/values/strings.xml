@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Prayer Time App</string>
+
+    //Home
+    <string name="home_screen_top1">Your Location</string>
+    <string name="BottomBar_Home">Home</string>
+    <string name="BottomBar_Qibla">Qibla</string>
+    <string name="BottomBar_More">More</string>
+
+    <string name="preference_key">PREFERENCE KEY</string>
+
+    <string name="preference_location_key">USER LOCATION PREFERENCE KEY</string>
+
+    <string name="locus_rationale_title">Rationale Title</string>
+    <string name="locus_rationale_message">This is a rationale message.</string>
+    <string name="locus_permission_blocked_title">Permission Blocked Title</string>
+    <string name="locus_permission_blocked_message">This is a permission blocked message.</string>
+    <string name="locus_location_resolution_title">Permission Resolution Title</string>
+    <string name="locus_location_resolution_message">This is a permission resolution message.</string>
+    <string name="grant">Grant</string>
+    <string name="deny">Deny</string>
+
+
+</resources>
